@@ -1,5 +1,10 @@
 README
 ======
 
-MOOC: Python for Data Science
+[MOOC: Python for Data Science](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science)
 
+Exercice 1: Simulation du probleme de Monty Hall
+------------------------------------------------
+
+Exercice 2:
+----------
