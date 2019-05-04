@@ -6,5 +6,8 @@ README
 Exercice 1: Simulation du probleme de Monty Hall
 ------------------------------------------------
 
-Exercice 2:
+Exercice 2: Regression lineaire avec Scikit-Learn
+-------------------------------------------------
+
+Exercice 3: 
 ----------
